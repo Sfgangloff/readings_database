@@ -1,0 +1,31 @@
+.past {
+    background-color:#E3F56C;
+    border: 1pt solid black;
+}
+
+.current {
+    background-color:#058B8C;
+    border: 1pt solid black;
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+}
+
+.nodisplay {
+display:none;
+}
+
+.btn-secondary:hover {
+    cursor:pointer
+}
+
+.copy:hover {
+    cursor:pointer
+}
+
+.radio {
+    display:inline-block;
+    padding-right:15px;
+}
+
